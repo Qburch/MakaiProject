@@ -1,4 +1,4 @@
-# MakaiRentalsProject
+# Makai Rentals Project
 Makai Rentals is a startup which focuses on Watersport Rentals, allowing users to pick up and drop off their purchased items at one of Makai stands which will be stocked with products from local stores. As a developer, I worked on creating the web application capable of handling all the neccassary interactions between customers, partners, and administators. Due to the proprietary nature of the code only selected, approved snippets of my code can be shared in this repository. This repository contains SQL, .NET, and ReactJS code.
 
 One of my responsibilities at Makai Rentals was to build a profile page for the customers. On this page, a user can access their order history and their payment history, they can change their basic account information such as the name or phone number, and they can change their more secure account information as their password or email. 
