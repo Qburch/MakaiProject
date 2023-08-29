@@ -1,23 +1,23 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Sabio.Models;
-using Sabio.Models.AppSettings;
-using Sabio.Models.Domain;
-using Sabio.Models.Domain.LoginLog;
-using Sabio.Models.Domain.LoyaltyPoints;
-using Sabio.Models.Domain.Metrics;
-using Sabio.Models.Enums;
-using Sabio.Models.Requests.LoyaltyPoints;
-using Sabio.Models.Requests.Users;
-using Sabio.Services;
-using Sabio.Services.Interfaces;
-using Sabio.Web.Controllers;
-using Sabio.Web.Models.Responses;
+using Makai.Models;
+using Makai.Models.AppSettings;
+using Makai.Models.Domain;
+using Makai.Models.Domain.LoginLog;
+using Makai.Models.Domain.LoyaltyPoints;
+using Makai.Models.Domain.Metrics;
+using Makai.Models.Enums;
+using Makai.Models.Requests.LoyaltyPoints;
+using Makai.Models.Requests.Users;
+using Makai.Services;
+using Makai.Services.Interfaces;
+using Makai.Web.Controllers;
+using Makai.Web.Models.Responses;
 using System;
 using System.Threading.Tasks;
 
-namespace Sabio.Web.Api.Controllers
+namespace Makai.Web.Api.Controllers
 {
     [Route("api/users")]
     [ApiController]
