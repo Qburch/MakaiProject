@@ -9,12 +9,7 @@ Also on the profile page, a user can change their basic account information such
 
 // Two images (edit profile, security)
 
-In addition, I built an insurance option into the checkout flow, allowing customers to select whether they want their rental to be covered by insurance for an additional fee. 
-
-// (Insurance option if still can find on the website)
-
-
-The application contains many features for the administrators and project owners to explore. As such, I was responsible for creating the API endpoints to handle retrieving specified business statistatics realated to user and revenue growth.
+In addition, I built an insurance option into the checkout flow, allowing customers to select whether they want their rental to be covered by insurance for an additional fee. The application contains many features for the administrators and project owners to explore. As such, I was responsible for creating the API endpoints to handle retrieving specified business statistatics realated to user and revenue growth.
 
 • Debug functional and logic errors during end-to-end testing with Chrome Devtools.
 
