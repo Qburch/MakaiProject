@@ -1,16 +1,16 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Sabio.Models.Domain.InsuranceOptions;
-using Sabio.Models.Requests.InsuranceOptions;
-using Sabio.Services;
-using Sabio.Services.Interfaces;
-using Sabio.Web.Controllers;
-using Sabio.Web.Models.Responses;
+using Makai.Models.Domain.InsuranceOptions;
+using Makai.Models.Requests.InsuranceOptions;
+using Makai.Services;
+using Makai.Services.Interfaces;
+using Makai.Web.Controllers;
+using Makai.Web.Models.Responses;
 using System;
 using System.Collections.Generic;
 
-namespace Sabio.Web.Api.Controllers
+namespace Makai.Web.Api.Controllers
 {
     [Route("api/insurance")] // Might need to change
     [ApiController]
